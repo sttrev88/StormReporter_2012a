@@ -1,10 +1,10 @@
 # StormReporter (2012 v 0.1a)
-AUTHORS: Tyrell Cushman, Changmin Shen and Scott Trevorrow</br>
-DATE: May, 2012
+Authors: Tyrell Cushman, Changmin Shen and Scott Trevorrow</br>
+Date of last update: May 12, 2012
 
 #Purpose
-The National Weather Service (NWS) handles severe weather report processing in a particularly old-school fashion. The most effective media for these reports, to date, have been
-</br><UL>
+The National Weather Service (NWS) processes severe weather reports in a particularly old-school fashion. The most common media for these reports, to date, have been
+<UL>
 <LI>Phone conversations with NWS meteoroloigsts at local NWS stations, and
 <LI>Emails
 </UL>
